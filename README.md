@@ -1,6 +1,17 @@
 > ![license](https://img.shields.io/github/license/knownasrazi/wireframe-fig?style=flat-square&color=ebe7e0) ![lang](https://img.shields.io/badge/lang-Canvas-ede9e3?style=flat-square) ![version](https://img.shields.io/badge/version-1.0.0-ebe7e0?style=flat-square)
 
 ---
+## Demo
+
+![Demo](./public/demo.svg)
+
+**Live:** https://knownasrazi.github.io/wireframe-fig/
+
+> Screenshot is a placeholder — Pages deploys on push to `main`.
+
+---
+
+
 
 # wireframe-fig
 
