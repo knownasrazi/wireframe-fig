@@ -6,7 +6,7 @@
 
 **Low-fi wireframe tool - canvas, components, and export to PNG or code.**
 
-> Wireframes in cream wire.
+> Wireframes in clean wire.
 
 ---
 
@@ -15,7 +15,7 @@
 | Tool | wireframe-fig | Others |
 |------|-----------|--------|
 | **Privacy** | Local-first | Cloud upload |
-| **Aesthetic** | Cream, stone, ink | Neon, noise |
+| **Aesthetic** | Clean, stone, ink | Neon, noise |
 | **Vibe** | For coders who ship | For managers who watch |
 
 ## Stack
